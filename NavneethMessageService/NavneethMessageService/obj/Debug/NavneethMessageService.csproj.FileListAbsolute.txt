@@ -1,0 +1,10 @@
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\bin\Debug\NavneethMessageService.exe.config
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\bin\Debug\NavneethMessageService.exe
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\bin\Debug\NavneethMessageService.pdb
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\obj\Debug\NavneethMessageService.csprojResolveAssemblyReference.cache
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\obj\Debug\NavneethMessageService.Properties.Resources.resources
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\obj\Debug\NavneethMessageService.csproj.GenerateResource.Cache
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\obj\Debug\NavneethMessageService.csproj.CoreCompileInputs.cache
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\obj\Debug\NavneethMessageService.exe
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\obj\Debug\NavneethMessageService.pdb
+C:\Users\Navneeth Sai\source\repos\NavneethMessageService\NavneethMessageService\obj\Debug\NavneethMessageService.Form1.resources
